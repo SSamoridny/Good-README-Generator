@@ -48,11 +48,28 @@ function promptUser() {
     ]);
 }
 
+// Function to run the license
+function getLicense(license){
+    
+    // if (license[0] === "Apache"){
+    //     return fs.readFileSync(path.resolve(__dirname, './Licenses/apache.txt'), { encoding: 'utf-8'})
+    // }
+    // else if (license[0] === "MIT"){
+    //     return fs.readFileSync(path.resolve(__dirname, './Licenses/mit.txt'), { encoding: 'utf-8'})
+    // }
+    // else if (license[0] === "ISC"){
+    //     return fs.readFileSync(path.resolve(__dirname, './Licenses/isc.txt'), { encoding: 'utf-8'})
+    // }
+    // else if (license[0] === "GNU GPL v3"){
+    //     return fs.readFileSync(path.resolve(__dirname, './Licenses/gnu.txt'), { encoding: 'utf-8'})
+    // }
+    // console.log(license)
+}
 
 
 // This part actually takes the responses and creates our README file using backtick notation and some clever spacing
 
-function generateMarkdown(response){
+function generateReadme(response){
 
         return`
 
@@ -89,7 +106,7 @@ function generateMarkdown(response){
   function generate(){
       promptUser()
       .then(function(response) {
-          let readMe = generateMarkdown(response);
+          let readMe = generateReadme(response);
           fs.writeFileSync("README.md" , readMe)
       })
       .catch(function(err){

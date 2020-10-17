@@ -51,19 +51,19 @@ function promptUser() {
 // Function to run the license
 function getLicense(license){
     
-    // if (license[0] === "Apache"){
-    //     return fs.readFileSync(path.resolve(__dirname, './Licenses/apache.txt'), { encoding: 'utf-8'})
-    // }
-    // else if (license[0] === "MIT"){
-    //     return fs.readFileSync(path.resolve(__dirname, './Licenses/mit.txt'), { encoding: 'utf-8'})
-    // }
-    // else if (license[0] === "ISC"){
-    //     return fs.readFileSync(path.resolve(__dirname, './Licenses/isc.txt'), { encoding: 'utf-8'})
-    // }
-    // else if (license[0] === "GNU GPL v3"){
-    //     return fs.readFileSync(path.resolve(__dirname, './Licenses/gnu.txt'), { encoding: 'utf-8'})
-    // }
-    // console.log(license)
+     if (license[0] === "Apache"){
+         return fs.readFileSync(path.resolve(__dirname, './Licenses/apache.txt'), { encoding: 'utf-8'})
+     }
+     else if (license[0] === "MIT"){
+         return fs.readFileSync(path.resolve(__dirname, './Licenses/mit.txt'), { encoding: 'utf-8'})
+     }
+     else if (license[0] === "ISC"){
+         return fs.readFileSync(path.resolve(__dirname, './Licenses/isc.txt'), { encoding: 'utf-8'})
+     }
+     else if (license[0] === "GNU GPL v3"){
+         return fs.readFileSync(path.resolve(__dirname, './Licenses/gnu.txt'), { encoding: 'utf-8'})
+     }
+    console.log(license)
 }
 
 
@@ -74,7 +74,7 @@ function generateReadme(response){
         return`
 
 # ${response.project_title}
-![](https://img.shields.io/badge/Readme-100%25-green)
+![License](https://img.shields.io/badge/Readme-100%25-green)
 
 ## Description: 
 

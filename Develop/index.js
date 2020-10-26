@@ -74,7 +74,7 @@ function generateReadme(response){
         return`
 
 # ${response.project_title}
-![](https://img.shields.io/badge/Readme-100%25-green)
+![](https://img.shields.io/badge/README-GOODREADME-brightgreen)
 
 ## Description: 
 

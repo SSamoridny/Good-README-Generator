@@ -1,3 +1,4 @@
+MIT LICENSE
 
 Copyright (c) [2020] [Shaun Samoridny]
 

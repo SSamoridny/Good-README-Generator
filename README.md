@@ -1,11 +1,19 @@
 
 
-# The Awesome Project
+# Awesome Project
 ![](https://img.shields.io/badge/README-GOODREADME-brightgreen)
+
+## Table of Contents
+- [Description](#project_description)
+- [Installastion](#installation_instructions)
+- [Usage](#usage_instructions)
+- [Credits](#project_credits)
+- [License](#project_license)
+- [Questions](#questions)
 
 ## Description: 
 
-         This project is truly awesome
+         This project creates a README for you based on the questions that you answer
 
 ## Installation:
 
@@ -13,11 +21,19 @@
 
 ## Usage:
 
-         Upon opening the project just bask in its awesomeoness
+         The project will prompt yu with simple questions about your current project. Upon answering a new README file will be generated
 
 ## Credits:
 
-        My entire Boot Camp class and Google
+        Fil, Daniel and Google
+
+## GitHUb Adress:
+
+        SSamoridny
+
+## Email Address:
+
+        ssamoridny@gmail.com
 
 ## License:
     

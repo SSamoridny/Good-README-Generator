@@ -33,6 +33,16 @@ function promptUser() {
 
         },
         {
+            type: "input",
+            message: "What is your GitHub username?",
+            name: "username",
+        },
+        {
+            type: "input",
+            message: "Enter your email address?",
+            name: "email",
+        },
+        {
             name: "project_license",
             type: "checkbox",
             message: "Please select one license for this project",
@@ -76,6 +86,14 @@ function generateReadme(response){
 # ${response.project_title}
 ![](https://img.shields.io/badge/README-GOODREADME-brightgreen)
 
+## Table of Contents
+- [Description](#project_description)
+- [Installastion](#installation_instructions)
+- [Usage](#usage_instructions)
+- [Credits](#project_credits)
+- [License](#project_license)
+- [Questions](#questions)
+
 ## Description: 
 
          ${response.project_description}
@@ -91,6 +109,14 @@ function generateReadme(response){
 ## Credits:
 
         ${response.project_credits}
+
+## GitHUb Adress:
+
+        ${response.username}
+
+## Email Address:
+
+        ${response.email}
 
 ## License:
     
@@ -116,12 +142,3 @@ function generateReadme(response){
   }
 // this calls the function
 generate();
-
-
-
-
-
-
-
-
-

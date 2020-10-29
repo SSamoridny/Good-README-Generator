@@ -1,6 +1,6 @@
 
 
-# Awesome Project
+# Awesome project
 ![](https://img.shields.io/badge/README-GOODREADME-brightgreen)
 
 ## Table of Contents
@@ -12,19 +12,19 @@
 
 ## Description: 
 
-         This project will generate a README file for you
+         This project creates a README file for you
 
 ## Installation:
 
-         NPM Install and run node index.js
+         NPM Install
 
 ## Usage:
 
-         UPon running the app you will be asked questions. Upon answering these questions your README will be generated
+         You will be prompted to answer some questions about your project. Upon answering them your README will be generated
 
 ## Credits:
 
-        Fil, Daniel and Google
+        Fil, Daniel and Goolge as well as classmates who asked great questions
 
 ## GitHUb Adress:
 

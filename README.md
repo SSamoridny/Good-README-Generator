@@ -1,14 +1,50 @@
-README Generator
 
-https://youtu.be/c56hJ2ZCk0M 
 
-Technologies Used:
+# The Awesome Project
+![](https://img.shields.io/badge/README-GOODREADME-brightgreen)
 
-Node.js
-JavaScript
+## Description: 
 
-This project is a straigtforward README generator. Using JavaScript and Node.js, you are prompted within the terminal to answer a few questions regarding your project. When those questions have been answered and you hit enter, a README file is created for you with your answers inside.
+         This project is truly awesome
 
-Thank you, Shaun Samoridny
+## Installation:
 
-ssamoridny@gmail.com
+         NPM Install
+
+## Usage:
+
+         Upon opening the project just bask in its awesomeoness
+
+## Credits:
+
+        My entire Boot Camp class and Google
+
+## License:
+    
+
+    
+    MIT LICENSE
+
+Copyright (c) [2020] [Shaun Samoridny]
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+}
+      
+
+   

@@ -9,19 +9,18 @@
 - [Usage](#usage_instructions)
 - [Credits](#project_credits)
 - [License](#project_license)
-- [Questions](#questions)
 
 ## Description: 
 
-         This project creates a README for you based on the questions that you answer
+         This project will generate a README file for you
 
 ## Installation:
 
-         NPM Install
+         NPM Install and run node index.js
 
 ## Usage:
 
-         The project will prompt yu with simple questions about your current project. Upon answering a new README file will be generated
+         UPon running the app you will be asked questions. Upon answering these questions your README will be generated
 
 ## Credits:
 

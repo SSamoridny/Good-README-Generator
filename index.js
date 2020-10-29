@@ -92,7 +92,6 @@ function generateReadme(response){
 - [Usage](#usage_instructions)
 - [Credits](#project_credits)
 - [License](#project_license)
-- [Questions](#questions)
 
 ## Description: 
 

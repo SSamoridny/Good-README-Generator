@@ -1,6 +1,6 @@
 
 
-# Awesome ReadMe Generator
+# React Employee Directory
 ![](https://img.shields.io/badge/README-GOODREADME-brightgreen)
 
 ## Table of Contents
@@ -12,27 +12,27 @@
 
 ## Description: 
 
-         This project creates a README by answering questions in Node.js
+         In this project we use React to build a sortable and searchable employee directory using an outside API 
 
 ## Installation:
 
-         NPM Install followed by node index.js in Node
+         This project needs no installation as a working link is provided below
 
 ## Usage:
 
-         You will be prompted to answer questions about your project. Upon answering all of the questions you will hit enter and your README will be generated
+         Upon opening the link the user can take a look at the directory and search the employee name in the search bar or use the arrow icons beside the phone number and name to search and sort through the list of people 
 
 ## Credits:
 
-        Fil, Daniel, Google and classmates who asked great questions
+        Fil Labourde-Basto, Daniel Ceballos and various classmates and study groups who helped me to build my skills
 
 ## GitHUb Adress:
 
-        SSamoridny
+    [](github.com/SSamoridny)
 
 ## Email Address:
 
-        ssamoridny@gmail.com
+    [](ssamoridny@gmail.com)
 
 ## License:
     

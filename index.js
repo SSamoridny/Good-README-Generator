@@ -109,13 +109,13 @@ function generateReadme(response){
 
         ${response.project_credits}
 
-## GitHUb Adress:
+## GitHub Adress:
 
-        ${response.username}
+[](github.com/${response.username})
 
 ## Email Address:
 
-        ${response.email}
+[](${response.email})
 
 ## License:
     

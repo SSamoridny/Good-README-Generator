@@ -28,11 +28,11 @@
 
 ## GitHUb Adress:
 
-    [](github.com/SSamoridny)
+   [SSamoridny](github.com/SSamoridny)
 
 ## Email Address:
 
-    [](ssamoridny@gmail.com)
+   [Email](ssamoridny@gmail.com)
 
 ## License:
     

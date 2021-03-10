@@ -1,8 +1,4 @@
-<<<<<<< HEAD
 
-
-=======
->>>>>>> 83fc1569536456ff280f78445e3149b4523fc8b0
 # README Generator
 ![](https://img.shields.io/badge/README-GOODREADME-brightgreen)
 
@@ -31,19 +27,13 @@
 
 ## GitHub Adress:
 
-<<<<<<< HEAD
+
 [](github.com/SSamoridny)
 
 ## Email Address:
 
-[](ssamoridny@gmail.com)
-=======
-[SSamoridny](github.com/SSamoridny)
-
-## Email Address:
-
 [Email](ssamoridny@gmail.com)
->>>>>>> 83fc1569536456ff280f78445e3149b4523fc8b0
+
 
 ## License:
     

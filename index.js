@@ -111,11 +111,11 @@ function generateReadme(response){
 
 ## GitHub Adress:
 
-[](github.com/${response.username})
+[Personal Github Link](github.com/${response.username})
 
 ## Email Address:
 
-[](${response.email})
+[Email](${response.email})
 
 ## License:
     

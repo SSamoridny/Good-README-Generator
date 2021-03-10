@@ -59,15 +59,9 @@
  OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
  SOFTWARE.
  }
-<<<<<<< HEAD
       
-
-   
-=======
-
 INPUT
 ![Screen Shot 2021-03-10 at 11 26 21 AM](https://user-images.githubusercontent.com/30538162/110679092-4eac7500-8194-11eb-9888-e8d51d069a60.png)
 
 OUTPUT
 ![Screen Shot 2021-03-10 at 11 29 28 AM](https://user-images.githubusercontent.com/30538162/110679174-6c79da00-8194-11eb-8330-95e408d9f046.png)
->>>>>>> 83fc1569536456ff280f78445e3149b4523fc8b0
